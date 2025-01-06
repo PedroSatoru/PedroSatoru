@@ -23,6 +23,13 @@
 </details>
 
 </div>
+
+<p align="center">
+  <a href="https://instagram.com/takahashi.pedro" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+  <a href="mailto:pedrohsatoru@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+  <a href="https://www.linkedin.com/in/pedro-h-satoru-l-takahashi-2a9113287" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+</p>
+
 <div align="center">
 <!-- GitHub Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=PedroSatoru&show_icons=true&theme=tokyonight" width="50%" alt="GitHub Stats"/>
@@ -38,4 +45,17 @@
 - [Quiz em React Native](https://github.com/PedroSatoru/Quiz_React)
 - [Jogo em Arduino Uno](https://github.com/PedroSatoru/Jogo_Arduino)
 - [Banco em Python](https://github.com/PedroSatoru/ProjetoBanco.py)
+</div>
+<div align="center">
+
+## 🔥 Skills
+  <div style="flex-basis: 48%;">
+    <h3>Linguagens de programação</h3>
+    <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+    <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+    <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+    <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+    <img align="center" alt="C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
+  </div>
+
 </div>
