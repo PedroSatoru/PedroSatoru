@@ -6,7 +6,7 @@
   </a>
   
   <!-- Snake Game -->
-  <img alt="GitHub Activity Graph" src="https://raw.githubusercontent.com/ryanbritodev/ryanbritodev/output/github-contribution-grid-snake.svg"/>
+
 <!-- Typing SVG and Introduction -->
 
 <div align="center">
