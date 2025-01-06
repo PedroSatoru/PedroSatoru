@@ -1,9 +1,6 @@
 <!-- Header Wave -->
 <p align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=546c86&section=header&reversal=true"/>
-  <g align="center">
-  <img alt="GitHub Activity Graph" src="https://raw.githubusercontent.com/PedroSatoru/PedroSatoru/output/github-contribution-grid-snake.svg"/>
-</g><br>
     <a href="https://git.io/typing-svg">
   <img ailgn="center" src="https://readme-typing-svg.herokuapp.com?font=Hind&weight=500&size=30&duration=4000&pause=2000&color=dee5ea&background=043360&center=true&vCenter=true&random=false&width=560&height=59&lines=Olá+Mundo!+%F0%9F%91%8B" alt="Typing SVG"/>
   </a>
@@ -24,8 +21,9 @@
 
 ⚡ - Meus principais hobbies são jogar videogames, de preferência RPGs e SoulsLikes, assistir séries com minha namorada, ler mangás e dirigir sempre que possível! Acredito que a dedicação e a paixão por aprender podem abrir caminhos para conquistas incríveis. 
 </details>
-
 </div>
+
+<a>
 
 <p align="center">
   <a href="https://instagram.com/takahashi.pedro" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
@@ -82,7 +80,12 @@
     <img align="center" alt="MongoDB" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg">
   </div>
 
+<g align="center">
+  <img alt="GitHub Activity Graph" src="https://raw.githubusercontent.com/PedroSatoru/PedroSatoru/output/github-contribution-grid-snake.svg"/>
+</g><br>
 </div>
+
+
 
 <p align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=546c86&section=footer&reversal=true"/>
