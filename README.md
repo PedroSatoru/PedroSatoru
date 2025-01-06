@@ -33,9 +33,9 @@
 <div align="center">
 
 ## **Principais Repositórios**
- [Gerenciador de hosptal em C](https://github.com/PedroSatoru/Projeto-Gerenciador-de-Hospital)
-- [Exploratory Data Analysis](https://github.com/VariableBee/EDA_Loggi)
-- [Interactive Data Visualization](https://github.com/VariableBee/COVID_19_DASHBOARD)
-- [Data Querying and Analysis](https://github.com/VariableBee/AWS_Athena_Queries)
+- [Gerenciador de hosptal em C](https://github.com/PedroSatoru/Projeto-Gerenciador-de-Hospital)
+- [Exchange de Crypto Moedas em Java e PostgreeSQL](https://github.com/PedroSatoru/Exchange_Crypto/tree/master)
+- [Quiz em React Native](https://github.com/PedroSatoru/Quiz_React)
+- [Jogo em Arduino Uno]([https://github.com/PedroSatoru/Jogo_Arduino))
 - [Client Registry System](https://github.com/VariableBee/Cartorio)
 </div>
