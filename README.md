@@ -36,6 +36,6 @@
 - [Gerenciador de hosptal em C](https://github.com/PedroSatoru/Projeto-Gerenciador-de-Hospital)
 - [Exchange de Crypto Moedas em Java e PostgreeSQL](https://github.com/PedroSatoru/Exchange_Crypto/tree/master)
 - [Quiz em React Native](https://github.com/PedroSatoru/Quiz_React)
-- [Jogo em Arduino Uno]([https://github.com/PedroSatoru/Jogo_Arduino))
-- [Client Registry System](https://github.com/VariableBee/Cartorio)
+- [Jogo em Arduino Uno](https://github.com/PedroSatoru/Jogo_Arduino)
+- [Banco em Python](https://github.com/PedroSatoru/ProjetoBanco.py)
 </div>
