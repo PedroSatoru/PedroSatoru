@@ -1,9 +1,12 @@
-## Hi there 👋
+<!-- Header Wave -->
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=043360&section=header&reversal=true"/>
+<!-- Typing SVG and Introduction -->
+  <a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Hind&weight=500&size=30&duration=4000&pause=2000&color=dee5ea&background=043360&center=true&vCenter=true&random=false&width=560&height=59&lines=Olá+Mundo+%F0%9F%91%8B" alt="Typing SVG"/>
+  </a>
+</p>
 
-<!--
-**PedroSatoru/PedroSatoru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
