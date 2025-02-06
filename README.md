@@ -50,6 +50,7 @@
 - [Quiz em React Native](https://github.com/PedroSatoru/Quiz_React)
 - [Jogo em Arduino Uno](https://github.com/PedroSatoru/Jogo_Arduino)
 - [Banco em Python](https://github.com/PedroSatoru/ProjetoBanco.py)
+- [Cofre em Assembly](https://github.com/HG0304/CE4411-arquitetura-de-computadores)
 </div>
 <div align="center">
 
