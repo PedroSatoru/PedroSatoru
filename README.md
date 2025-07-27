@@ -51,7 +51,7 @@
 - [Jogo em Arduino Uno](https://github.com/PedroSatoru/Jogo_Arduino)
 - [Banco em Python](https://github.com/PedroSatoru/ProjetoBanco.py)
 - [Cofre em Assembly](https://github.com/HG0304/CE4411-arquitetura-de-computadores)
-- [Python e supabase para bando de dados de faculdade](https://github.com/PedroSatoru/DB_Faculdade)
+- [Python e supabase para banco de dados de faculdade](https://github.com/PedroSatoru/DB_Faculdade)
 - [Banco de Dados de Locadora de Veículos](https://github.com/PedroSatoru/MyMove_DB)
 - [Estruturação de projeto](https://github.com/HG0304/CC5511-SIRIUS)
 </div>
