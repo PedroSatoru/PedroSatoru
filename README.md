@@ -21,7 +21,7 @@
 <details>
   <summary>👨‍💻 Mais sobre mim</summary>
 
-💬 - Tenho 20 anos e moro em Santo André/SP. Tenho inglês intermediário/avançado (B2 por Cambridge) e experiência de trabalho com Python e HTML/CSS. Também utilizei, modifiquei e dei suporte ao ERP Odoo. Na faculdade, adquiri experiência com C, Java, Arduino físico e virtual, assembly e microcontroladores físicos, como o 8051.
+💬 - Tenho 21 anos e moro em Santo André/SP. Tenho inglês intermediário/avançado (B2 por Cambridge) e experiência de trabalho com Python e HTML/CSS. Também utilizei, modifiquei e dei suporte ao ERP Odoo. Na faculdade, adquiri experiência com C, Java, Arduino físico e virtual, assembly e microcontroladores físicos, como o 8051.
 
 ⚡ - Meus principais hobbies são jogar videogames, de preferência RPGs e SoulsLikes, assistir séries com minha namorada, ler mangás e dirigir sempre que possível! Acredito que a dedicação e a paixão por aprender podem abrir caminhos para conquistas incríveis. 
 </details>
